@@ -9,5 +9,11 @@
  * @author xpodhorecs
  */
 public class xxx {
-    
+    private String author;
+    private int year;
+
+    public xxx() {
+        this.author = "Asia";
+        this.year = 2012;
+    }
 }
