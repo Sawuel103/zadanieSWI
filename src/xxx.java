@@ -18,6 +18,7 @@ public class xxx {
     }
     
     public int nic() {
+        b = 900;
         return 0;
     }
 }
