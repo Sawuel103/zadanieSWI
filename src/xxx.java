@@ -16,8 +16,4 @@ public class xxx {
         this.author = "Asia";
         this.year = 2012;
     }
-    
-    public int nic() {
-        return 0;
-    }
 }
