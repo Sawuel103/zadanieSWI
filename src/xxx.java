@@ -18,7 +18,11 @@ public class xxx {
     }
     
     public int nic() {
+<<<<<<< HEAD
         a = 500;
+=======
+        b = 900;
+>>>>>>> refs/remotes/origin/Janko-Hraško
         return 0;
     }
 }
